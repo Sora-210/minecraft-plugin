@@ -1,0 +1,9 @@
+{
+    "folders": [
+        {
+            "path": "./first",
+            "name": "First Plugin"
+        }
+    ],
+    "settings": {}
+}

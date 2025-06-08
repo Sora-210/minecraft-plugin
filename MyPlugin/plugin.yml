@@ -1,0 +1,5 @@
+name: MyPlugin
+version: 1.0.0
+main: dev.sora210.minecraft_plugin.MyPlugin
+api-version: 1.0
+auther: Sora210
