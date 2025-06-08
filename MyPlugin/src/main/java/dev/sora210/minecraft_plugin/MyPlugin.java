@@ -1,8 +1,8 @@
-package dev.sora210;
+package dev.sora210.minecraft_plugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class App extends JavaPlugin
+public class MyPlugin extends JavaPlugin
 {
     @Override
     public void onEnable() {

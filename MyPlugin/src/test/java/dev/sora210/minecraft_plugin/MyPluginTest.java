@@ -1,4 +1,4 @@
-package dev.sora210;
+package dev.sora210.minecraft_plugin;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class MyPluginTest 
     extends TestCase
 {
     /**
@@ -15,7 +15,7 @@ public class AppTest
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public MyPluginTest( String testName )
     {
         super( testName );
     }
@@ -25,7 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest.class );
+        return new TestSuite( MyPluginTest.class );
     }
 
     /**
